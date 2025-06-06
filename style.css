@@ -1,0 +1,23 @@
+ *{
+            background-color: rgb(28, 54, 3);
+            font-family: cursive;
+        }
+        #box{
+            color: rgb(172, 65, 65);
+            height: 200px;
+            width: 200px;
+            background-color: black;
+            position: relative;
+            border: 2px solid black;
+        }
+        ul{
+            display: flex;
+            justify-content: space-around;
+            list-style: none;
+            font-size: 25px;
+            color: rgb(218, 86, 128);
+        }
+        li:hover{
+            color: coral;
+            font-size: 30px;
+        }
